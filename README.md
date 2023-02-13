@@ -27,6 +27,10 @@ TRACE: O corpo da mensagem contém a mensagem da requisição tal qual foi receb
 ## 429: Muitos pedidos. A solicitação foi rejeitada devido à limitação da taxa.
 ## 500: Erro interno do servidor. Isso pode ser causado por erros internos do programa
 
+
+
+![image](https://user-images.githubusercontent.com/112646599/218475733-d02fcd09-3404-4051-9df8-277efd408d40.png)
+
 ![image](https://user-images.githubusercontent.com/112646599/218465402-6f59b2c9-e6a4-4366-aecf-84c6eb4345fa.png)
 ![image](https://user-images.githubusercontent.com/112646599/218465335-4e5b4a70-ddbe-4455-8e9b-84999969d310.png)
 ![image](https://user-images.githubusercontent.com/112646599/218465284-6c3cc61a-28ad-47d8-a02a-f775a986e25d.png)
